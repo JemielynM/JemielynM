@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Jemielyn | Aspiring Web Developer
 
-<!--
-**JemielynM/JemielynM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Jemielyn** — a curious and creative learner passionate about building websites, improving my coding skills, and exploring the world of tech. Currently working on small projects and growing my portfolio one commit at a time. 🚀
 
-Here are some ideas to get you started:
+## 🌱 What I'm Learning:
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects:
+- Personal website (coming soon!)
+- Assignment-based web pages
+- Interactive mini apps
+- [More on my Repositories →](https://github.com/your-username-here)
+
+## 📌 Goals:
+- Contribute to open-source projects
+- Build a portfolio site
+- Learn React.js
+- Collaborate on meaningful work
+
+## 📫 Let’s Connect!
+- Email: yourname@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+Thanks for visiting my profile! 🙌 Feel free to check out my work and leave feedback.
+
+---
+⭐️ *"Code. Learn. Improve. Repeat."*
