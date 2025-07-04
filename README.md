@@ -21,9 +21,8 @@ Hi there! I'm **Jemielyn** — a curious and creative learner passionate about b
 - Collaborate on meaningful work
 
 ## 📫 Let’s Connect!
-- Email: yourname@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: jemielyn.bingham@triossstudent.com
+- Portfolio: coming soon....
 
 Thanks for visiting my profile! 🙌 Feel free to check out my work and leave feedback.
 
