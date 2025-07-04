@@ -27,4 +27,4 @@ Hi there! I'm **Jemielyn** — a curious and creative learner passionate about b
 Thanks for visiting my profile! 🙌 Feel free to check out my work and leave feedback.
 
 ---
-⭐️ *"Code. Learn. Improve. Repeat."*
+⭐️ *"Keep building, keep learning."*
